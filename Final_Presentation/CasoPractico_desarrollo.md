@@ -31,7 +31,7 @@ Tras explorar diversas fuentes y recursos para obtener un buen contexto sobre el
 
 &nbsp;
 ### *inicio del código del script web_scraper.py:*
-![alt text](images\image.png)
+![alt text](images/image.png)
 
 &nbsp;
 
