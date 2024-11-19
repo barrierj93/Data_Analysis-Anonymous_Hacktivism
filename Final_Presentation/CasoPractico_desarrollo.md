@@ -36,7 +36,7 @@ Tras explorar diversas fuentes y recursos para obtener un buen contexto sobre el
 &nbsp;
 
 ### *Captura del inicio del primer resultado en formato .csv:*
-![alt text](images\image-1.png)
+![alt text](images/image-1.png)
 
 
 
@@ -50,12 +50,12 @@ Para comenzar a limpiar y depurar los datos obtenidos con el web scraping, voy a
 
 - **Eliminación de caracteres sobrantes.** procedo a eliminar elementos sobrantes que no contienen información relevante si no elementos del código html. Para ellos utilizo herramientas del propio spreadsheet y también otro pequeño script en Python para eliminar elementos concretos (csv_cleaner.py)
 
-![alt text](images\image-2.png)
+![alt text](images/image-2.png)
 
 - **Añadir columnas de interés**. Ahora que he eliminado los datos irrelevantes, procedo a añadir columnas nuevas con información importante para el estudio. He creado diccionarios en formato .txt con información geográfica y técnica sobre ciberataques y he programado otro script en Python (csv_columns.py) que se encarga de leer las lineas en estos diccionarios y añadir nuevas columnas a nuestro csv, en este caso Location y Attack Type
 
 
-![alt text](images\image-3.png)
+![alt text](images/image-3.png)
 
 
 - **Limpiar resultado de modificaciones.** procedemos a eliminar duplicados y datos irrelevantes. Con el script splitter3.py separamos las entradas que tienen más de un elemento en la columna Locations en una fila por elemento, para luego eliminar manualmente duplicados y comprobar que no son distintos paises. Esto es para hacer que el archivo sea compatible en formato con lo que Tableau y PowerBI requieren para poder crear visualizaciones certeras.
@@ -66,8 +66,7 @@ Para comenzar a limpiar y depurar los datos obtenidos con el web scraping, voy a
 
 
 
-![alt text](images\image-7.png)
-![alt text](images\image6.png)
+![alt text](images/image6.png)
 
 
 
@@ -75,4 +74,4 @@ Para comenzar a limpiar y depurar los datos obtenidos con el web scraping, voy a
 
 
 
-![alt text](images\image-8.png)
+![alt text](images/image-8.png)
