@@ -62,7 +62,7 @@ Para comenzar a limpiar y depurar los datos obtenidos con el web scraping, voy a
 
 
 
-### Visualizacion de datos en PowerBI.
+## Visualizacion de datos en PowerBI.
 
 
 
@@ -70,7 +70,7 @@ Para comenzar a limpiar y depurar los datos obtenidos con el web scraping, voy a
 
 
 
-### Visualizacion de datos en Tableau.
+## Visualizacion de datos en Tableau.
 
 
 
