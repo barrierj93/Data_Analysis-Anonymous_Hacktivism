@@ -71,19 +71,19 @@ Para comenzar a limpiar y depurar los datos obtenidos con el web scraping, voy a
 &nbsp;
 
 
-## Visualizacion de datos en PowerBI.
+## Data Visualization.
+
+Para finalizar el proyecto de análisis de datos y visualización, se recopiló, procesó y analizó información relevante para transformar datos crudos en insights claros y accionables. Este proceso incluyó la integración de diversas fuentes de datos, la limpieza y transformación de los mismos, y su posterior análisis. Los resultados se plasmaron en dashboards interactivos y dinámicos, diseñados para facilitar la interpretación visual de patrones, tendencias y métricas clave, permitiendo a los usuarios tomar decisiones informadas de manera rápida y efectiva.
 
 &nbsp;
 
+
+### *Visualizacion de datos en PowerBI.*
 
 ![alt text](images/image6.png)
 
 &nbsp;
 
-
-## Visualizacion de datos en Tableau.
-
-&nbsp;
-
+### *Visualizacion de datos en Tableau.*
 
 ![alt text](images/image-8.png)
