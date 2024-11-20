@@ -30,7 +30,7 @@ Tras explorar diversas fuentes y recursos para obtener un buen contexto sobre el
 **Script en Python.** En primer lugar, he decidido obtener los datos desde mi fuente para poder limpiarlos, procesarlos y analizarlos, por lo que procedo a observar la estructura HTML de la página web que contiene los datos y procedo a desarrollar un script (Anon_wikiScraper.py) con el que sacar los datos organizados en un archivo csv que contiene la información de la fecha, el nombre y la descripción de los ataques, obteniendo tras ejecutar el script un **Primer resultado en csv** (Draft_AnonymousAttacks.csv)
 
 &nbsp;
-### *inicio del código del script web_scraper.py:*
+### *snippet de código del script web_scraper.py:*
 ![alt text](images/image.png)
 
 &nbsp;
@@ -42,7 +42,7 @@ Tras explorar diversas fuentes y recursos para obtener un buen contexto sobre el
 
 &nbsp;
 
-## Limpieza de Datos.
+## Data Wrangling.
 
 &nbsp;
 
