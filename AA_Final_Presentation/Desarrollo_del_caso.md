@@ -4,7 +4,7 @@
 
 # 1. Escenario
 
-Una prestigiosa consultora de Ciberinteligencia (CTI) ha solicitado un informe de Data Analysis sobre los **ataques atribuidos al grupo hacker Anonymous** entre 2012 y 2023. Este análisis proporcionará una visión retrospectiva de las actividades del grupo y ayudará a identificar patrones, técnicas y objetivos preferidos.
+Una consultora de Ciberinteligencia (CTI) ha solicitado un informe de Data Analysis sobre los **ataques atribuidos al grupo hacker Anonymous** entre 2012 y 2023. Este análisis proporcionará una visión retrospectiva de las actividades del grupo y ayudará a identificar patrones, técnicas y objetivos preferidos.
 
 Como analista de datos, mi tarea es sumergirme en esta década de actividad hacker, desentrañando la compleja red de operaciones de Anonymous. Debo recopilar, procesar y analizar datos de múltiples fuentes, buscando tendencias, anomalías y evoluciones en sus métodos de ataque. Este informe será crucial para que las organizaciones comprendan mejor las amenazas que enfrentan y puedan fortalecer sus defensas contra futuros ataques similares.
 
