@@ -2,39 +2,6 @@
 
 &nbsp;
 
-# Executive Summary
-
-**1. Introduction**
-- Case Scenario
-- Scope
-- Objective
-- Results
-&nbsp;
-
-**2. Methodology**
-- Data Collection
-- Data Wrangling
-- Visualization
-&nbsp;
-
-**3. Results**
-- Visualization
-- Key Insights
-&nbsp;
-
-**4. Conclusion**
-- Achievements
-- Recommendations
-&nbsp;
-
-**5. Appendix**
-- Code and Tools
-- Sample Data
-- Additional Visualizations
-
-&nbsp;
-
-
 # 1. Introduction
 ## Case Scenario.
 
